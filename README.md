@@ -6,6 +6,7 @@
 A set of basic tools for gathering information from open sources (OSINT).
 
 **Author:** [sou1toon](https://dalink.to/sou1toon)
+
 **Telegram Channel:** [@s_lowcode_w](https://t.me/s_lowcode_w)
 
 ---
