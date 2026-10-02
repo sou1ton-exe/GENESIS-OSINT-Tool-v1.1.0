@@ -53,9 +53,9 @@ def main():
         elif user_option == "3": metadata.view_office_metadata()
         elif user_option == "4": metadata.auto_detect_and_view()
         elif user_option == "5": ip_info.information_about_ip()
-        elif user_option == "6": email_info.information_about_email()
+        elif user_option == "6": pass #email_info.information_about_email()
         elif user_option == "7": nickname_info.information_about_nickname()
-        elif user_option == "8": phone_info.information_about_phone()
+        elif user_option == "8": pass #phone_info.information_about_phone()
         elif user_option == "0": print(colored("Exiting...", "magenta")); sys.exit(0)
         else: print(colored("[!] Invalid menu option.\n", "red"))
 
