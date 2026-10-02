@@ -55,7 +55,7 @@ GENESIS/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/genesis.git
+git clone https://github.com/sou1ton-exe/genesis.git
 cd genesis
 ```
 
