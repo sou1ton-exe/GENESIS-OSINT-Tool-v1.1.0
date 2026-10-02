@@ -1,0 +1,12 @@
+termcolor
+Pillow
+exifread
+pypdf
+python-docx
+openpyxl
+python-pptx
+olefile
+requests
+2ip
+holehe
+maigret
