@@ -56,8 +56,8 @@ GENESIS/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sou1ton-exe/genesis.git
-cd genesis
+git clone https://github.com/sou1ton-exe/GENESIS-OSINT-Tool-v1.1.0
+cd GENESIS-OSINT-Tool-v1.1.0/genesis
 ```
 
 ### 2. Create a virtual environment (recommended)
